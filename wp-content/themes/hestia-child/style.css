@@ -1,0 +1,54 @@
+/*
+Theme Name: Theme enfant Hestia
+Theme URI:  https://fr.wordpress.org/themes/hestia/
+Description: Theme enfant de hestia
+Author: Benjamin HAISE
+Author URI: https://benjaminhaise.com
+Template: hestia
+Version: 2.5.3
+License:  GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.hestia-title,a{
+	color : #F6D35D;
+}
+
+.sub-title,h2,h6{
+    color : #B59119;
+}
+
+.text-info{
+	color : #F6D35D;
+}
+
+footer.footer.footer-black{
+    background-color : #202C39;
+}
+
+.boutons_reseau{
+    font-size : 2.8em;
+    display : flex;
+	flex-direction : row;
+	flex-wrap : wrap;
+	justify-content : space-between;
+	align-items : center;
+	align-content : space-around;
+}
+
+.obfx-grid-col-image{
+    border-color : gray;
+    border-radius: 8px 8px 0% 0%;
+}
+
+.obfx-grid-col-content{
+    border-color : gray;
+    border-radius: 0% 0% 8px 8px;
+    background-color : #fff;
+    padding : 0px 50px 20px;
+    font-family : Source Sans Pro;
+}
+
+.author{
+    display : none;
+}

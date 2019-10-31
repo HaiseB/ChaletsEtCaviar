@@ -1,0 +1,1054 @@
+# Translation of Plugins - Mesmerize Companion - Development (trunk) in Dutch
+# This file is distributed under the same license as the Plugins - Mesmerize Companion - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-06-21 07:38:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: nl\n"
+"Project-Id-Version: Plugins - Mesmerize Companion - Development (trunk)\n"
+
+#. Author of the plugin/theme
+msgid "Horea Radu"
+msgstr "Horea Radu"
+
+#. Plugin Name of the plugin/theme
+msgid "Mesmerize Companion"
+msgstr "Mesmerize Companion"
+
+#: theme-data/mesmerize/options/overlap.php:30
+msgid "Overlap with"
+msgstr "Overlapping met"
+
+#: theme-data/mesmerize/options/overlap.php:19
+msgid "Allow content to overlap header"
+msgstr "Overlapping van de inhoud met de header toestaan"
+
+#: theme-data/mesmerize/functions.php:377
+msgid "Call to action"
+msgstr "Oproep tot actie"
+
+#: theme-data/mesmerize/functions.php:373
+msgid "Latest News"
+msgstr "Het laatste nieuws"
+
+#: theme-data/mesmerize/functions.php:160
+msgid "Contact form will be displayed here. To activate it you have to set the \"contact form shortcode\" parameter in Customizer."
+msgstr "De contactformulier wordt hier getoond. Voor het activeren moet je de parameter ”shortcode contactformulier” instellen van het Aanpassing menu."
+
+#: src/Customizer/Translations.php:886
+msgid "yellow"
+msgstr "geel"
+
+#: src/Customizer/Translations.php:882
+msgid "white text"
+msgstr "witte tekst"
+
+#: src/Customizer/Translations.php:878
+msgid "use existing color"
+msgstr "gebruik de bestaande kleur"
+
+#: src/Customizer/Translations.php:874
+msgid "transparent"
+msgstr "transparant"
+
+#: src/Customizer/Translations.php:870
+msgid "transparent ( link button )"
+msgstr "transparant (link knop)"
+
+#: src/Customizer/Translations.php:866
+msgid "top"
+msgstr "boven"
+
+#: src/Customizer/Translations.php:862
+msgid "square"
+msgstr "vierkant"
+
+#: src/Customizer/Translations.php:858
+msgid "square round"
+msgstr "rond vierkant"
+
+#: src/Customizer/Translations.php:854
+msgid "square round outline"
+msgstr "contour rond vierkant"
+
+#: src/Customizer/Translations.php:850
+msgid "square outline"
+msgstr "vierkante contour"
+
+#: src/Customizer/Translations.php:846
+msgid "small"
+msgstr "klein"
+
+#: src/Customizer/Translations.php:842
+msgid "show shadow"
+msgstr "schaduw tonen"
+
+#: src/Customizer/Translations.php:838
+msgid "separator"
+msgstr "verdeler"
+
+#: src/Customizer/Translations.php:834
+msgid "separator type"
+msgstr "type verdeler"
+
+#: src/Customizer/Translations.php:830
+msgid "separator color"
+msgstr "kleur verdeler"
+
+#: src/Customizer/Translations.php:826
+msgid "separator colo"
+msgstr "colo verdeler"
+
+#: src/Customizer/Translations.php:822
+msgid "separator Height"
+msgstr "hoogte verdeler"
+
+#: src/Customizer/Translations.php:818
+msgid "select image"
+msgstr "afbeelding selecteren"
+
+#: src/Customizer/Translations.php:814
+msgid "round"
+msgstr "rond"
+
+#: src/Customizer/Translations.php:810
+msgid "round outline"
+msgstr "ronde contour"
+
+#: src/Customizer/Translations.php:806
+msgid "rating"
+msgstr "waardering"
+
+#: src/Customizer/Translations.php:802
+msgid "random"
+msgstr "willekeurig"
+
+#: src/Customizer/Translations.php:798
+msgid "purple"
+msgstr "violet"
+
+#: src/Customizer/Translations.php:794
+msgid "price"
+msgstr "prijs"
+
+#: src/Customizer/Translations.php:790
+msgid "popularity"
+msgstr "populariteit"
+
+#: src/Customizer/Translations.php:786
+msgid "paragraph"
+msgstr "alinea"
+
+#: src/Customizer/Translations.php:782
+msgid "outline"
+msgstr "contour"
+
+#: src/Customizer/Translations.php:778
+msgid "orange"
+msgstr "oranje"
+
+#: src/Customizer/Translations.php:774
+msgid "normal"
+msgstr "normaal"
+
+#: src/Customizer/Translations.php:770
+msgid "no shadow"
+msgstr "zonder schaduw"
+
+#: src/Customizer/Translations.php:766
+msgid "new link"
+msgstr "nieuwe link"
+
+#: src/Customizer/Translations.php:762
+msgid "new button"
+msgstr "nieuwe knop"
+
+#: src/Customizer/Translations.php:758
+msgid "link"
+msgstr "link"
+
+#: src/Customizer/Translations.php:754
+msgid "lead"
+msgstr "landing"
+
+#: src/Customizer/Translations.php:750
+msgid "image"
+msgstr "afbeelding"
+
+#: src/Customizer/Translations.php:746
+msgid "heading"
+msgstr "kop"
+
+#: src/Customizer/Translations.php:742
+msgid "green"
+msgstr "groen"
+
+#: src/Customizer/Translations.php:738
+msgid "edit theme colors"
+msgstr "themakleuren bewerken"
+
+#: src/Customizer/Translations.php:734
+msgid "default"
+msgstr "standaard"
+
+#: src/Customizer/Translations.php:730
+msgid "date"
+msgstr "datum"
+
+#: src/Customizer/Translations.php:726
+msgid "dark text"
+msgstr "donkere tekst"
+
+#: src/Customizer/Translations.php:722
+msgid "columns"
+msgstr "kolommen"
+
+#: src/Customizer/Translations.php:718
+msgid "column"
+msgstr "kolom"
+
+#: src/Customizer/Translations.php:714
+msgid "button"
+msgstr "knop"
+
+#: src/Customizer/Translations.php:710
+msgid "bottom"
+msgstr "beneden "
+
+#: src/Customizer/Translations.php:706
+msgid "border"
+msgstr "zijkant"
+
+#: src/Customizer/Translations.php:702
+msgid "blue"
+msgstr "blauw"
+
+#: src/Customizer/Translations.php:698
+msgid "big"
+msgstr "groot"
+
+#: src/Customizer/Translations.php:694
+msgid "background"
+msgstr "achtergrond"
+
+#: src/Customizer/Translations.php:690
+msgid "add theme color"
+msgstr "themakleur toevoegen"
+
+#: src/Customizer/Translations.php:686
+msgid "Zoom"
+msgstr "zoomen"
+
+#: src/Customizer/Translations.php:682
+msgid "WooCommerce Section Options"
+msgstr "Instellingen van WooCommerce sectie"
+
+#: src/Customizer/Translations.php:678
+msgid "Width"
+msgstr "Breedte"
+
+#: src/Customizer/Translations.php:674
+msgid "Widgets Area"
+msgstr "Widgets-gebied"
+
+#: src/Customizer/Translations.php:670
+msgid "White text"
+msgstr "Witte tekst"
+
+#: src/Customizer/Translations.php:666
+msgid "What Our Clients Say"
+msgstr "Wat onze klanten zeggen"
+
+#: src/Customizer/Translations.php:658
+msgid "Video Popup Button"
+msgstr "Popup-videoknop"
+
+#: src/Customizer/Translations.php:654
+msgid "Use this field for 3rd party maps plugins. The fields above will be ignored in this case."
+msgstr "Gebruik dit veld voor de kaarten plugins van derden. In dit geval wordt geen rekening gehouden met de velden boven"
+
+#: src/Customizer/Translations.php:650
+msgid "Use custom selection"
+msgstr "Gebruik aangepaste selectie"
+
+#: src/Customizer/Translations.php:646
+msgid "Use Transparent Color"
+msgstr "Gebruik transparante kleur"
+
+#: src/Customizer/Translations.php:642
+msgid "Use Masonry to display the gallery"
+msgstr "Gebruik Masonry om de galerij te tonen"
+
+#: src/Customizer/Translations.php:638
+msgid "Use 3rd party shortcode"
+msgstr "Gebruik shortcodes van derden"
+
+#: src/Customizer/Translations.php:634
+msgid "Upgrade to PRO"
+msgstr "Upgraden naar PRO"
+
+#: src/Customizer/Translations.php:630
+msgid "Type"
+msgstr "Type"
+
+#: src/Customizer/Translations.php:626
+msgid "Transparent"
+msgstr "Transparant"
+
+#: src/Customizer/Translations.php:622
+msgid "Toggle visibility in primary menu"
+msgstr "Schakel zichtbaarheid in het hoofdmenu"
+
+#: src/Customizer/Translations.php:618
+msgid "This section has a custom background color"
+msgstr "Deze sectie heeft een aangepaste achtergrondkleur"
+
+#: src/Customizer/Translations.php:614
+msgid "This item requires PRO theme"
+msgstr "Dit element eist de PRO-thema"
+
+#: src/Customizer/Translations.php:610
+msgid "This item is available only in the PRO version"
+msgstr "Dit element is alleen beschikbaar voor de PRO versie"
+
+#: src/Customizer/Translations.php:606
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "De snelle bruine vos springt over de luie hond"
+
+#: src/Customizer/Translations.php:602
+msgid "Text"
+msgstr "Tekst"
+
+#: src/Customizer/Translations.php:598
+msgid "Text Options"
+msgstr "Tekstinstellingen"
+
+#: src/Customizer/Translations.php:594
+msgid "Text Color"
+msgstr "Tekstkleur"
+
+#: src/Customizer/Translations.php:590
+msgid "Tags"
+msgstr "Labels"
+
+#: src/Customizer/Translations.php:586
+msgid "Swap columns position on mobile"
+msgstr "Wissel de kolommenzetsel voor mobiel"
+
+#: src/Customizer/Translations.php:582
+msgid "Suffix ( text after the number )"
+msgstr "Achtervoegsel (tekst na cijfer)"
+
+#: src/Customizer/Translations.php:578
+msgid "Stop circle at value"
+msgstr "Stop cirkel op waarde"
+
+#: src/Customizer/Translations.php:574
+msgid "Start counter from"
+msgstr "Telling beginnen op"
+
+#: src/Customizer/Translations.php:570
+msgid "Small"
+msgstr "Klein"
+
+#: src/Customizer/Translations.php:566
+msgid "Show form controls on one column"
+msgstr "Toon de formuliercontroles op één kolom"
+
+#: src/Customizer/Translations.php:562
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: src/Customizer/Translations.php:558
+msgid "Set the shortcode"
+msgstr "Shortcode instellen"
+
+#: src/Customizer/Translations.php:554
+msgid "Select"
+msgstr "Selecteren"
+
+#: src/Customizer/Translations.php:550
+msgid "Select a Widgets Area"
+msgstr "Selecteer een widgets-gebied"
+
+#: src/Customizer/Translations.php:546
+msgid "Select Products to display"
+msgstr "Selecteer de te tonen producten"
+
+#: src/Customizer/Translations.php:542
+msgid "Select Image"
+msgstr "Selecteer afbeelding"
+
+#: src/Customizer/Translations.php:538
+msgid "Section"
+msgstr "Sectie"
+
+#: src/Customizer/Translations.php:534
+msgid "Section Spacing"
+msgstr "Spatiëring sectie"
+
+#: src/Customizer/Translations.php:530
+msgid "Section Settings"
+msgstr "Sectie-instellingen"
+
+#: src/Customizer/Translations.php:526
+msgid "Section Separators"
+msgstr "Sectieverdelers"
+
+#: src/Customizer/Translations.php:522
+msgid "Section Options"
+msgstr "Instellingen sectie"
+
+#: src/Customizer/Translations.php:518
+msgid "Section Dimensions"
+msgstr "Afmetingen sectie"
+
+#: src/Customizer/Translations.php:514
+msgid "Section Background"
+msgstr "Achtergrond sectie"
+
+#: src/Customizer/Translations.php:510
+msgid "Search for specific products to display"
+msgstr "Zoek naar specifieke producten voor aantoning"
+
+#: src/Customizer/Translations.php:506
+msgid "Rounded background"
+msgstr "Afgeronde achtergrond"
+
+#: src/Customizer/Translations.php:502
+msgid "Right"
+msgstr "Rechts"
+
+#: src/Customizer/Translations.php:498
+msgid "Reorder Items"
+msgstr "Elementen opnieuw rangschikken"
+
+#: src/Customizer/Translations.php:494
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: src/Customizer/Translations.php:490
+msgid "Remove Item"
+msgstr "Verwijder element"
+
+#: src/Customizer/Translations.php:486
+msgid "Rating"
+msgstr "Waardering"
+
+#: src/Customizer/Translations.php:482
+msgid "Random"
+msgstr "Willkeurig"
+
+#: src/Customizer/Translations.php:478
+msgid "Price"
+msgstr "Prijs"
+
+#: src/Customizer/Translations.php:474
+msgid "Prefix ( text in front of the number )"
+msgstr "Voorvoegsel (tekst vóór cijfer)"
+
+#: src/Customizer/Translations.php:470
+msgid "Popularity"
+msgstr "Populariteit"
+
+#: src/Customizer/Translations.php:466
+msgid "Please upgrade to the PRO version to use this item and many others."
+msgstr "Gelieve upgraden naar de PRO versie om dit en nog meer andere elementen te kunnen gebruiken"
+
+#: src/Customizer/Translations.php:462
+msgid "Overlay color"
+msgstr "Kleur overlappen"
+
+#: src/Customizer/Translations.php:458
+msgid "Order"
+msgstr "Rangschikken"
+
+#: src/Customizer/Translations.php:454
+msgid "Order By"
+msgstr "Rangschikken naar"
+
+#: src/Customizer/Translations.php:450
+msgid "Open images in Lightbox"
+msgstr "Open afbeeldingen in Lightbox"
+
+#: src/Customizer/Translations.php:446
+msgid "Offset Y"
+msgstr "Compenseer Y"
+
+#: src/Customizer/Translations.php:442
+msgid "Offset X"
+msgstr "Compenseer X"
+
+#: src/Customizer/Translations.php:438
+msgid "OK"
+msgstr "OK"
+
+#: src/Customizer/Translations.php:434
+msgid "Number of products to display"
+msgstr "Aantal producten te tonen"
+
+#: src/Customizer/Translations.php:430
+msgid "Number of posts to display"
+msgstr "Aantal berichten te tonen"
+
+#: src/Customizer/Translations.php:426
+msgid "Normal"
+msgstr "Normaal"
+
+#: src/Customizer/Translations.php:422
+msgid "No Widgets Area Selected"
+msgstr "Geen widget-gebied geselecteerd"
+
+#: src/Customizer/Translations.php:418
+msgid "Move element"
+msgstr "Element verplaatsen"
+
+#: src/Customizer/Translations.php:414
+msgid "More section design options available in PRO"
+msgstr "Meer designinstellingen voor de sectie zijn beschikbaar in PRO"
+
+#: src/Customizer/Translations.php:410
+msgid "Manage web fonts"
+msgstr "Weblettertypes behandelen"
+
+#: src/Customizer/Translations.php:406
+msgid "Manage Widgets Areas"
+msgstr "Widgets-gebieden behandelen"
+
+#: src/Customizer/Translations.php:402
+msgid "Manage Options"
+msgstr "Instellingen behandelen"
+
+#: src/Customizer/Translations.php:398
+msgid "Manage Content"
+msgstr "Inhoud behandelen"
+
+#: src/Customizer/Translations.php:394
+msgid "Make full width"
+msgstr "Volledige breedte instellen"
+
+#: src/Customizer/Translations.php:390
+msgid "Make Centered"
+msgstr "Centreren"
+
+#: src/Customizer/Translations.php:386
+msgid "Main Menu"
+msgstr "Hoofdmenu"
+
+#: src/Customizer/Translations.php:382
+msgid "Lng (optional)"
+msgstr "Lang (facultatief)"
+
+#: src/Customizer/Translations.php:378
+msgid "List"
+msgstr "Lijst"
+
+#: src/Customizer/Translations.php:374
+msgid "List items"
+msgstr "Elementen lijsten "
+
+#: src/Customizer/Translations.php:370
+msgid "List item"
+msgstr "Element lijsten"
+
+#: src/Customizer/Translations.php:362
+msgid "Left"
+msgstr "Links"
+
+#: src/Customizer/Translations.php:358
+msgid "Latest News Settings"
+msgstr "Instellingen voor het laatste nieuws"
+
+#: src/Customizer/Translations.php:354
+msgid "Lat (optional)"
+msgstr "Breed (facultatief)"
+
+#: src/Customizer/Translations.php:350
+msgid "Large"
+msgstr "Groot"
+
+#: src/Customizer/Translations.php:346
+msgid "Items position"
+msgstr "Positie elementen"
+
+#: src/Customizer/Translations.php:342
+msgid "Items align"
+msgstr "Uitlijning elementen"
+
+#: src/Customizer/Translations.php:338
+msgid "Items Options"
+msgstr "Instellingen elementen"
+
+#: src/Customizer/Translations.php:334
+msgid "Item"
+msgstr "Element"
+
+#: src/Customizer/Translations.php:330
+msgid "Item content align"
+msgstr "Elementinhoud uitlijning"
+
+#: src/Customizer/Translations.php:326
+msgid "Image"
+msgstr "Afbeelding"
+
+#: src/Customizer/Translations.php:314
+msgid "Icon Color"
+msgstr "Icoonkleur"
+
+#: src/Customizer/Translations.php:310
+msgid "Highlight item"
+msgstr "Element markeren"
+
+#: src/Customizer/Translations.php:306
+msgid "Hide on mobile"
+msgstr "Verbergen voor mobiel"
+
+#: src/Customizer/Translations.php:302
+msgid "Height"
+msgstr "Hoogte"
+
+#: src/Customizer/Translations.php:298
+msgid "Heading"
+msgstr "Kop"
+
+#: src/Customizer/Translations.php:294
+msgid "Gradient"
+msgstr "Gradiënt"
+
+#: src/Customizer/Translations.php:290
+msgid "Get your api key here"
+msgstr "Api sleutel hier verkrijgen"
+
+#: src/Customizer/Translations.php:286
+msgid "Gallery Settings"
+msgstr "Instellingen galerij"
+
+#: src/Customizer/Translations.php:282
+msgid "Frame Settings"
+msgstr "Instellingen kader"
+
+#: src/Customizer/Translations.php:278
+msgid "Font Weight"
+msgstr "Dikte lettertype"
+
+#: src/Customizer/Translations.php:274
+msgid "Font Awesome Icon"
+msgstr "Icoon Awesome Lettertype"
+
+#: src/Customizer/Translations.php:270
+msgid "Extra Large"
+msgstr "Zeer groot"
+
+#: src/Customizer/Translations.php:266
+msgid "End counter to"
+msgstr "Telling beëindigen op "
+
+#: src/Customizer/Translations.php:262
+msgid "Edit"
+msgstr "Bewerken"
+
+#: src/Customizer/Translations.php:258
+msgid "Edit section settings"
+msgstr "Sectie-instellingen bewerken"
+
+#: src/Customizer/Translations.php:254
+msgid "Duplicate"
+msgstr "Dupliceren"
+
+#: src/Customizer/Translations.php:250
+msgid "Display"
+msgstr "Tonen"
+
+#: src/Customizer/Translations.php:246
+msgid "Display section title area"
+msgstr "Toon het titelgebied van de sectie"
+
+#: src/Customizer/Translations.php:236
+msgid "Delete item"
+msgstr "Artikel verwijderen"
+
+#: src/Customizer/Translations.php:232
+msgid "Delete element"
+msgstr "Element verwijderen"
+
+#: src/Customizer/Translations.php:228
+msgid "Default"
+msgstr "Standaard"
+
+#: src/Customizer/Translations.php:224
+msgid "Date"
+msgstr "Datum"
+
+#: src/Customizer/Translations.php:220
+msgid "Dark text"
+msgstr "Donkere tekst"
+
+#: src/Customizer/Translations.php:216
+msgid "Custom shortcode"
+msgstr "Aangepaste shortcode"
+
+#: src/Customizer/Translations.php:212
+msgid "Counter duration ( in milliseconds )"
+msgstr "Duur telling (in milliseconden)"
+
+#: src/Customizer/Translations.php:208
+msgid "Content align"
+msgstr "Inhoud uitlijning"
+
+#: src/Customizer/Translations.php:204
+msgid "Content Column Options"
+msgstr "Instellingen voor de inhoudkolom"
+
+#: src/Customizer/Translations.php:200
+msgid "Content Column Color"
+msgstr "Kleur inhoudkolom"
+
+#: src/Customizer/Translations.php:196
+msgid "Content Column Bg. Color"
+msgstr "Achtergrondkleur inhoudkolom"
+
+#: src/Customizer/Translations.php:192
+msgid "Content Align"
+msgstr "Inhoud uitlijning"
+
+#: src/Customizer/Translations.php:187
+msgid "Contact Form 7 Options"
+msgstr "Instellingen Contactformulier 7"
+
+#: src/Customizer/Translations.php:183
+msgid "Columns"
+msgstr "Kolommen"
+
+#: src/Customizer/Translations.php:179
+msgid "Columns per row"
+msgstr "Kolommen op een rij"
+
+#: src/Customizer/Translations.php:175
+msgid "Column"
+msgstr "Kolom"
+
+#: src/Customizer/Translations.php:171
+msgid "Color"
+msgstr "Kleur"
+
+#: src/Customizer/Translations.php:167
+msgid "Color item"
+msgstr "Elementkleur"
+
+#: src/Customizer/Translations.php:163
+msgid "Close Panel"
+msgstr "Scherm sluiten"
+
+#: src/Customizer/Translations.php:159
+msgid "Choose Images"
+msgstr "Afbeeldingen kiezen"
+
+#: src/Customizer/Translations.php:155
+msgid "Choose Icon"
+msgstr "Icoon kiezen"
+
+#: src/Customizer/Translations.php:151
+msgid "Choose Gradient"
+msgstr "Gradiënt kiezen"
+
+#: src/Customizer/Translations.php:147
+msgid "Check all PRO features"
+msgstr "Controleer alle PRO functies"
+
+#: src/Customizer/Translations.php:143
+msgid "Change"
+msgstr "Veranderen"
+
+#: src/Customizer/Translations.php:139
+msgid "Change background"
+msgstr "Achtergrond veranderen"
+
+#: src/Customizer/Translations.php:135
+msgid "Change background Image"
+msgstr "Achtergrondafbeelding veranderen"
+
+#: src/Customizer/Translations.php:131
+msgid "Change Page Background Image"
+msgstr "Achtergrondafbeelding van de pagina veranderen"
+
+#: src/Customizer/Translations.php:127
+msgid "Change Font Awesome Icon"
+msgstr "Icoon van Awesome Lettertype veranderen"
+
+#: src/Customizer/Translations.php:123
+msgid "Center"
+msgstr "Centrere"
+
+#: src/Customizer/Translations.php:119
+msgid "Categories"
+msgstr "Categorieën"
+
+#: src/Customizer/Translations.php:115
+msgid "Card Border Color"
+msgstr "Randkleur kaart"
+
+#: src/Customizer/Translations.php:107
+msgid "Button"
+msgstr "Knop"
+
+#: src/Customizer/Translations.php:103
+msgid "Button Text Color"
+msgstr "Kleur tekstknop"
+
+#: src/Customizer/Translations.php:99
+msgid "Button Size"
+msgstr "Knopgrootte"
+
+#: src/Customizer/Translations.php:95
+msgid "Button Shadow"
+msgstr "Knopschaduw"
+
+#: src/Customizer/Translations.php:91
+msgid "Button Preset"
+msgstr "Voorinstelling knop"
+
+#: src/Customizer/Translations.php:87
+msgid "Button Icon"
+msgstr "Knopicoon"
+
+#: src/Customizer/Translations.php:83
+msgid "Button Color"
+msgstr "Knopkleur"
+
+#: src/Customizer/Translations.php:79
+msgid "Bordered"
+msgstr "Ingelijst"
+
+#: src/Customizer/Translations.php:75
+msgid "Border Color"
+msgstr "Randkleur"
+
+#: src/Customizer/Translations.php:71
+msgid "Blog Section Options"
+msgstr "Instellingen blogsectie"
+
+#: src/Customizer/Translations.php:67
+msgid "Background can be changed in PRO"
+msgstr "De achtergrond kan worden veranderd in de PRO versie"
+
+#: src/Customizer/Translations.php:63
+msgid "Background Type"
+msgstr "Type achtergrond"
+
+#: src/Customizer/Translations.php:59
+msgid "Background Overlay"
+msgstr "Overlapping achtergrond"
+
+#: src/Customizer/Translations.php:55
+msgid "Background Image"
+msgstr "Achtergrondafbeelding"
+
+#: src/Customizer/Translations.php:51
+msgid "Background Color"
+msgstr "Achtergrondkleur"
+
+#: src/Customizer/Translations.php:47
+msgid "Api key"
+msgstr "Api sleutel"
+
+#: src/Customizer/Translations.php:43
+msgid "Address"
+msgstr "Adres"
+
+#: src/Customizer/Translations.php:39
+msgid "Add web font"
+msgstr "Weblettertype toevoegen"
+
+#: src/Customizer/Translations.php:35
+msgid "Add item"
+msgstr "Artikel toevoegen"
+
+#: src/Customizer/Translations.php:31
+msgid "Add element"
+msgstr "Element toevoegen"
+
+#: src/Customizer/Translations.php:27
+msgid "Add WebFont"
+msgstr "Weblettertype toevoegen"
+
+#: src/Customizer/Translations.php:19
+msgid "3rd party shortcode (optional)"
+msgstr "Shortcodes van derden (facultatief)"
+
+#: src/Customizer/Translations.php:15
+msgid "3rd party form shortcode"
+msgstr "Shortcode formulier van derden "
+
+#: src/Customizer/Panels/HeaderPanel.php:94
+msgid "Header Settings"
+msgstr "Header instellingen"
+
+#: src/Customizer/Panels/HeaderPanel.php:93
+msgid "Change Header"
+msgstr "Header veranderen"
+
+#: src/Customizer/Panels/FooterPanel.php:56
+msgid "Change Footer"
+msgstr "Footer veranderen"
+
+#: src/Customizer/Panels/ContentPanel.php:355
+msgid "No section added"
+msgstr "Geen sectie toegevoegd"
+
+#: src/Customizer/Panels/ContentPanel.php:353
+msgid "Manage page sections"
+msgstr "Paginasecties behandelen"
+
+#: src/Customizer/Panels/ContentPanel.php:348
+msgid "Page Settings"
+msgstr "Pagina-instellingen "
+
+#: src/Customizer/Panels/ContentPanel.php:312
+#: src/Customizer/Translations.php:318
+msgid "Icon Size"
+msgstr "Icoongrootte"
+
+#: src/Customizer/Panels/ContentPanel.php:295
+#: src/Customizer/Translations.php:322
+msgid "Icon Style"
+msgstr "Icoonstijl"
+
+#: src/Customizer/Panels/ContentPanel.php:264
+#: src/Customizer/Panels/ContentPanel.php:291
+msgid "Browse Icon"
+msgstr "Icoon bladeren"
+
+#: src/Customizer/Panels/ContentPanel.php:247
+#: src/Customizer/Translations.php:366
+msgid "Link"
+msgstr "Linken"
+
+#: src/Customizer/Panels/ContentPanel.php:241
+#: src/Customizer/Panels/ContentPanel.php:284
+#: src/Customizer/Translations.php:662
+msgid "Visible"
+msgstr "Zichtbaar"
+
+#: src/Customizer/Panels/ContentPanel.php:223
+msgid "Browse Image"
+msgstr "Afbeelding bladeren"
+
+#: src/Customizer/Panels/ContentPanel.php:202
+#: src/Customizer/Translations.php:23
+msgid "Add Item"
+msgstr "Element toevoegen"
+
+#: src/Customizer/Panels/ContentPanel.php:197
+msgid "Delete section from page"
+msgstr "Verwijder een sectie van de pagina "
+
+#: src/Customizer/Panels/ContentPanel.php:177
+#: src/Customizer/Panels/ContentPanel.php:257
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: src/Customizer/Panels/ContentPanel.php:175
+#: src/Customizer/Panels/ContentPanel.php:255
+msgid "New tab"
+msgstr "Nieuw tabblad"
+
+#: src/Customizer/Panels/ContentPanel.php:174
+#: src/Customizer/Panels/ContentPanel.php:254
+msgid "Same tab"
+msgstr "Hetzelfde tabblad"
+
+#: src/Customizer/Panels/ContentPanel.php:172
+#: src/Customizer/Panels/ContentPanel.php:252
+msgid "Target"
+msgstr "Doelstelling"
+
+#: src/Customizer/Panels/ContentPanel.php:96
+msgid "Apply Changes"
+msgstr "Wijzigingen toepassen"
+
+#: src/Customizer/Panels/ContentPanel.php:95
+#: src/Customizer/Translations.php:111
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: src/Customizer/Panels/ContentPanel.php:49
+#: src/Customizer/Panels/ContentPanel.php:347
+#: src/Customizer/Panels/ContentPanel.php:358
+msgid "Add Section"
+msgstr "Sectie toevoegen"
+
+#: src/Customizer/Panels/ContentPanel.php:27
+msgid "Add sections into page"
+msgstr "Secties toevoegen in de pagina"
+
+#: src/Customizer/Panels/ContentPanel.php:21
+msgid "Reorder and remove sections"
+msgstr "Secties opnieuw rangschikken en verwijderen"
+
+#: src/Customizer/Customizer.php:307
+msgid "Make this product editable in customizer"
+msgstr "Maak dit product bewerkbaar in het aanpassingsmenu"
+
+#: src/Customizer/Customizer.php:306
+msgid "This product page is not marked as editable in Customizer"
+msgstr "Deze productpagina staat niet aangeduid als bewerkbaar in het aanpassingsmenu"
+
+#: src/Customizer/Customizer.php:299 src/Customizer/Customizer.php:308
+msgid "A page revision will be created so you can go back if the button was pressed by mistake"
+msgstr "Er wordt een revisie van de pagina gemaakt, zodat je kan teruggaan als de knop wordt onbedoeld geklikt"
+
+#: src/Customizer/Customizer.php:298
+msgid "Make this page editable in customizer"
+msgstr "Maak deze pagina bewerkbaar in het aanpassingsmenu"
+
+#: src/Customizer/Customizer.php:297
+msgid "This page is not marked as editable in Customizer"
+msgstr "Deze pagina staat niet aangeduid als bewerkbaar in het aanpassingsmenu"
+
+#: src/Customizer/Customizer.php:245
+msgid "Please wait,<br/>this might take a little while"
+msgstr "Even wachten, <br/> het zal een beetje duren"
+
+#: src/Customizer/Controls/MultiImageControl.php:21
+msgid "changeImage"
+msgstr "Afbeelding veranderen"
+
+#: src/Customizer/Controls/MultiImageControl.php:20
+msgid "Delete image from slideshow"
+msgstr "Afbeelding verwijderen van de diapresentatie"
+
+#: src/Customizer/Controls/MultiImageControl.php:19
+msgid "Add New Image"
+msgstr "Nieuwe afbeelding toevoegen"
+
+#: src/Customizer/Controls/ContentSectionsListControl.php:64
+msgid "Available in PRO"
+msgstr "Beschikbaar in de PRO versie"
+
+#: src/Companion.php:905
+msgid "Page needs to be published before editing it in customizer"
+msgstr "De pagina moet gepubliceerd zijn vóór bewerking in het aanpassingsmenu"
+
+#: src/Companion.php:880
+msgid "Set Page Name"
+msgstr "Paginanaam instellen"
+
+#: src/Companion.php:878
+msgid "Set a name for the new page"
+msgstr "Naam instellen voor de nieuwe pagina"
+
+#: src/Companion.php:842
+msgid "Enter title here"
+msgstr "Titel hier invullen"
+
+#: src/Companion.php:807
+msgid "Edit In Customizer"
+msgstr "Bewerken in het aanpassingsmenu"
+
+#. Description of the plugin/theme
+msgid "The Mesmerize Companion plugin adds drag and drop page builder functionality to the Mesmerize theme."
+msgstr "De Mesmerize Companion plugin voegt de verschuif- en neerzetfunctie toe bij het ontwikkelen van pagina`s met de Mesmerize thema"

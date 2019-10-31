@@ -1,0 +1,29 @@
+[28/Oct/2019:21:53:45] (ℹ️): WordPress Instance Info:
+[28/Oct/2019:21:53:45] (ℹ️): Home URL : http://benjaminhaise.com/Chalets_et_caviar
+[28/Oct/2019:21:53:45] (ℹ️): Site URL : http://benjaminhaise.com/Chalets_et_caviar
+[28/Oct/2019:21:53:45] (ℹ️): WordPress Version : 5.2.4
+[28/Oct/2019:21:53:45] (ℹ️): Onboarding Version : 1.7.5
+[28/Oct/2019:21:53:45] (ℹ️): Multisite : No
+[28/Oct/2019:21:53:45] (ℹ️): Server Info : Apache
+[28/Oct/2019:21:53:45] (ℹ️): PHP Version : 7.2.19
+[28/Oct/2019:21:53:45] (ℹ️): HTTPS : No
+[28/Oct/2019:21:53:45] (ℹ️): PHP Max Execution Time : 300
+[28/Oct/2019:21:53:45] (ℹ️): PHP Max Input Vars : 16000
+[28/Oct/2019:21:53:45] (ℹ️): Max Upload Size : 134217728
+[28/Oct/2019:21:53:45] (ℹ️): Plugins:
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Akismet Anti-Spam : v4.1.2 (Automattic)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Broken Link Checker : v1.11.8 (ManageWP)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Contact Form 7 : v5.1.4 (Takayuki Miyoshi)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Duplicate Page : v4.0 (mndpsingh287)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Page Templater For Elementor : v1.2.9 (ThemeIsle)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Elementor : v2.7.4 (Elementor.com)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Central Color Palette : v1.13.11 (Daniel Schneider)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] List category posts : v0.81 (Fernando Briano)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Mesmerize Companion : v1.6.110 (Horea Radu)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] MetaSlider : v3.14.0 (L’équipe Updraft)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Redirection : v4.4.2 (John Godley)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] ShortPixel Image Optimizer : v4.14.6 (ShortPixel)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.10 (Themeisle)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] Hustle : v7.0.3 (WPMU DEV)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] SEOPress : v3.7.2 (Benjamin Denis)
+[28/Oct/2019:21:53:45] (ℹ️): [PLUGIN] WP Super Cache : v1.7.0 (Automattic)
